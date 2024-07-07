@@ -1,0 +1,11 @@
+D:/mobilenetv3/Mobilenet_plant/all_data/yuejihua/微信图片_20240418205411.jpg+2024-06-05 20:20:23+月季花
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_1/1.png+2024-06-11 09:38:04+巴戟天
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_0/1.png+2024-06-11 09:38:42+艾叶
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_2/1.png+2024-06-11 09:38:53+白花蛇舌草
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_3/000005.png+2024-06-11 09:39:06+白茅根
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_4/000003.png+2024-06-11 09:39:19+白芍
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_5/000001.png+2024-06-11 09:39:31+白头翁
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_6/000001.png+2024-06-11 09:39:42+百部
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_7/000005.png+2024-06-11 09:39:53+百合
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_8/000004.png+2024-06-11 09:40:04+半夏
+D:/mobilenetv3/Mobilenet_plant/all_data/plant_9/000002.png+2024-06-11 09:40:16+北沙参
